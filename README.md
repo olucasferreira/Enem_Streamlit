@@ -1,2 +1,2 @@
-# enemapp
-Streamlit app do Projeto Integrador 2020.
+# ENEM_Streamlit_App
+App feito com streamlit com modelo de machine learning para determinar sua nota do ENEM
