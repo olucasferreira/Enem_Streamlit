@@ -1,5 +1,5 @@
 # ENEM_STREAMLIT
-Autores: Jessica Almino, Jonas Verdadeiro, Leonardo Macucci, Lucas Ferreira e Vinicius Gushiken.
+Autores: Jessica, Jonas, Leonardo, Lucas e Vinicius.
 
 Aplicativo web para descobrir sua nota do ENEM. Confira o modelo em produção no link abaixo. https://descubrasuanota.herokuapp.com/
 
